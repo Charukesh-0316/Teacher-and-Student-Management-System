@@ -2,11 +2,16 @@
 CRUD Operations performed on Teacher and Student on the Web page
 ------------------------------------------------
 #Technologies used 
-Java
-Spring boot - Maven
-Mysql
-Hibernate-JPA
-Thyemleaf Dependency
+
+-Java
+
+-Spring boot - Maven
+
+-Mysql
+
+-Hibernate-JPA
+
+-Thyemleaf Dependency
 
 ----------------------------------------------
 Description -
